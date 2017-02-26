@@ -16,5 +16,5 @@ LazyData: true
 Imports:
   jsonlite,
   httr,
-    utils
+  utils
 RoxygenNote: 6.0.1
